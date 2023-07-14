@@ -30,3 +30,8 @@ The data has NO missing values and also NO duplicates.
 
 Three columns are Drop.
 ![](18-drop-3-columns.png)
+
+Heatmap (Seaborn) is generated to identify any coorelations between classes.
+![](01-Heatmap.jpg)
+
+
