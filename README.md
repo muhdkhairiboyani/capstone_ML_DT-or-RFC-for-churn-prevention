@@ -1,7 +1,8 @@
 ##### Capstone: Machine Learning with Python
 ---
 ---
-# CHOOSING BETWEEN DECISION TREE & RANDOM FOREST FOR CUSTOMER CHURN
+# CHOOSING BETWEEN DECISION TREE & 
+# RANDOM FOREST FOR CUSTOMER CHURN
 
 Purpose:
 The purpose of this project is to look at two machine learning models and find out the following:
@@ -96,8 +97,8 @@ The ROC curve and the AuC score shows that Random Forest is more robust in makin
 **Decision tree** is fast and operates easily on large data sets, especially the linear one. \
 **Random forest** is a long process, yet slow. Its model needs rigorous training. \
 
-**ACCURACY**
-**Decision tree** accuracy can vary.
+**ACCURACY** \
+**Decision tree** accuracy can vary. \
 **Random forest** is highly accurate.
 
 ---
