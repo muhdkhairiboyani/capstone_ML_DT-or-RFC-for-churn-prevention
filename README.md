@@ -84,17 +84,17 @@ Plotting the ROC curve and obtaining the AuC score proves to be the deciding fac
 
 ### 08 CHOOSING between Decision Tree and Random Forest:
 
-**Which ML model has better accuracy score to predict churn.**
+**Which ML model has better accuracy score to predict churn.** \
 The ROC curve and the AuC score shows that Random Forest is more robust in making complex predictions and it has better accuracy.
 
-**Are there similarities and differences between them.**
-**DECISION MAKING**
-**Decision tree** combines some decisions.  
+**Are there similarities and differences between them.** \
+**DECISION MAKING** \
+**Decision tree** combines some decisions.  \
 **Random forest** combines several **decision trees**. 
 
-**PROCESSING**
-**Decision tree** is fast and operates easily on large data sets, especially the linear one.
-**Random forest** is a long process, yet slow. Its model needs rigorous training.
+**PROCESSING** \
+**Decision tree** is fast and operates easily on large data sets, especially the linear one. \
+**Random forest** is a long process, yet slow. Its model needs rigorous training. \
 
 **ACCURACY**
 **Decision tree** accuracy can vary.
