@@ -34,4 +34,18 @@ Three columns are Drop.
 Heatmap (Seaborn) is generated to identify any coorelations between classes.
 ![](01-Heatmap.jpg)
 
+### 03 Visualization of dataset
+In general, there are more Males than Females in the dataset. However, more Females churn than Male.
+![](02-No-of-Females-and-Males.jpg)
+![](03-Gender-Exited.png)
+
+When we look at churn by Geography, the bank has more customer from France. But churn customers from France and Germany are almost equal.
+![](04-Geography-Exited.png)
+
+Other visualization based on this dataset:
+![](05-3x3-Subplot.jpg)
+
+### 04 PREPARING DATA for building Machine Learning Models
+![](15-preparing-data.png)
+
 
