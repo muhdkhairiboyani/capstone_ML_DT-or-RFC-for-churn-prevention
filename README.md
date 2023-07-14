@@ -48,4 +48,15 @@ Other visualization based on this dataset:
 ### 04 PREPARING DATA for building Machine Learning Models
 ![](15-preparing-data.png)
 
+Using a Scatter Matrix, we can observe some areas that might contribute to customer churn - Age, Num of products, credit score and tenure.
+![](06-Scatter-Matrix.jpg)
 
+### 05 Build Machine Learning Model
+Train and Test:
+A Train size of 75 and Test size of 25 are set for training and testing ML models: Random Forest and Decision Tree.
+
+Random Forest Accuracy Test Score:
+![](19-rfc-accuracy-test.png)
+
+Decision Tree Accuracy Test Score:
+![](20-dt-accuracy-test.png)
