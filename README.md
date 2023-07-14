@@ -55,8 +55,32 @@ Using a Scatter Matrix, we can observe some areas that might contribute to custo
 Train and Test:
 A Train size of 75 and Test size of 25 are set for training and testing ML models: Random Forest and Decision Tree.
 
+#### RANDOM FOREST
 Random Forest Accuracy Test Score:
 ![](19-rfc-accuracy-test.png)
 
+Random Forest Confusion Matrix:
+![](07-CM-Random-Forest.jpg)
+
+Feature_Importance bar chart highlights 5 classes that need attention in order to predict and prevent churn.
+![](08-Feature-Importance.jpg)
+
+Visual of Random Forest
+![](09-Random-Forest-Tree.jpg)
+
+#### DECISION TREE
 Decision Tree Accuracy Test Score:
 ![](20-dt-accuracy-test.png)
+
+Decision Tree Confusion Matrix:
+![](10-CM-Decision-Tree.jpg)
+
+Visual of Decistion Tree
+![](11-Decision-Tree.jpg)
+
+### 07 Receiver Operator Characteristic (ROC) Curve and Area under the Curve (AuC)
+Plotting the ROC curve and obtaining the AuC score proves to be the deciding factor as to which machine learning model fare better than the other.
+![](12-ROC-Curve.jpg)
+
+
+
