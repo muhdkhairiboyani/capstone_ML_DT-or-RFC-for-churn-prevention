@@ -21,5 +21,12 @@ https://www.kaggle.com/datasets/shantanudhakadd/bank-customer-churn-prediction
 List of libraries \
 ![](13-import-library.png)
 
-Overview of data \
+Gathering insights of data \
 ![](14-data-overview.png)
+
+The data has NO missing values and also NO duplicates.
+![](16-missing-values.png)
+![](17-no-duplicates.png)
+
+Three columns are Drop.
+![](18-drop-3-columns.png)
